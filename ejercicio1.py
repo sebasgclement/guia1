@@ -7,3 +7,4 @@ distancia = velocidad * tiempo
 
 #Generando el output
 print("La distancia recorrida es: ", distancia)
+#Comentario de prueba
